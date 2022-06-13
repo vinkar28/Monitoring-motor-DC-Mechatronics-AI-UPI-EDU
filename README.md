@@ -1,4 +1,4 @@
-# Monitoring Arus, Daya, Tegangan dan Kecepatan Motor DC Menggunakan NodeMCU ESP8266 yang Terintegrasi Dengan Database Mysql
+# Monitoring Arus, Daya, Tegangan dan Kecepatan Motor DC Menggunakan NodeMCU ESP8266 yang Terintegrasi Dengan Database MySQL
 
 Repository ini merupakan dokumentasi projek UAS Kelompok 5 mata kuliah Sensor dan Tranduser.
 
@@ -66,6 +66,8 @@ Monitoring motor DC adalah sebuah alat yang digunakan untuk monitoring arus, teg
 ### Tampilan Sensor
 https://user-images.githubusercontent.com/107344746/173241731-40c883b5-0394-4809-8d36-bd3ee288ca31.mp4
 
+### Demo Sensor
+https://user-images.githubusercontent.com/107428291/173409790-33fbf080-6f4b-4e69-808f-d37efeb7c691.mp4
 ### Tampilan Aplikasi Pada Smartphone
 > <img alt="Tampilan Aplikasi Pada Smartphone" src="https://i.ibb.co/qFxbh3X/Screenshot-20220613-072457-Video-Player.jpg" width="70%" height="70%">
 
@@ -79,7 +81,7 @@ https://user-images.githubusercontent.com/107344746/173241731-40c883b5-0394-4809
 > + [Review Paper](https://drive.google.com/drive/folders/1_dpZ5RZMZVyhly4pX0sPtSiqoRcTCKQn?usp=sharing)
 
 ### Link Youtube
-> + [YouTube](https://youtu.be/ppYW4NCYN-c)
+> + [YouTube](https://youtube.com/playlist?list=PLaxTMjqPY5Ctf2KR1V5fZoZbjmiYFc8d7)
 
 ### Link File PHP
 > + [File PHP (.php)](https://www.dropbox.com/s/2hlqb13b483a4c5/php%20files.rar?dl=0)
